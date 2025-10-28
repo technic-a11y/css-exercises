@@ -39,3 +39,5 @@ ul {
   padding: 0;
   gap: 8px;
 }
+/* Problem in the solution: If done this it will not achieve the desired outcome. */
+/* It needs flex-wrap as the items are over-flowing. */
